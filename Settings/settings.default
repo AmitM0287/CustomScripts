@@ -1,0 +1,10 @@
+# PostgreSQL Configuration [dialect+driver://username:password@host:port/database]
+DIALECT = 'postgresql'
+DRIVER = 'psycopg2'
+DB_HOST = 'localhost'
+DB_NAME = 'developer_20'
+DB_PORT = 5432
+DB_UNAME = 'postgres'
+DB_PASS = '*******'
+# Cache defaults is 500 
+QUERY_CACHE_SIZE = 1200
