@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
 
 
-class A(Base):
+class Employees(Base):
     __tablename__ = 'employees'
 
     id = Column(Integer, primary_key=True)

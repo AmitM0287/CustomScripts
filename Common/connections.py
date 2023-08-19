@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
-from settings.settings import *
+from Settings.settings import *
 from urllib.parse import quote_plus
 
 
