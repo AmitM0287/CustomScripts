@@ -1,1 +1,10 @@
 SQLAlchemy==2.0.20
+about-time==4.2.1
+blessed==1.20.0
+grapheme==0.6.0
+psycopg2==2.9.7
+six==1.16.0
+SQLAlchemy==2.0.20
+tqdm==4.66.1
+typing_extensions==4.7.1
+wcwidth==0.2.6
